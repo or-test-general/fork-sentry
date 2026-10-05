@@ -64,3 +64,4 @@ Sentry is the debugging platform that helps every developer detect, trace, and f
 <!-- scan-test H2 -->
 <!-- scan-test E1 -->
 <!-- scan-test E1-2 -->
+<!-- scan-test H6-1 -->
